@@ -1,16 +1,16 @@
-# Todopop Privacy Policy
+# TODDI Privacy Policy
 
 Effective date: November 25, 2026
 
-Todopop is an iPhone app developed by Yunhyung Nam. This policy explains what happens to your information when you use it.
+TODDI is an iPhone app developed by Yunhyung Nam. This policy explains what happens to your information when you use it.
 
-**In short: Todopop does not collect any data.**
+**In short: TODDI does not collect any data.**
 
 ## What stays on your device
 
 The to-dos, reminder times, and settings you enter are stored only on your iPhone, in the app's own storage that it shares with its Lock Screen widget. They are not sent to the developer or to anyone else. The app has no account, no sign-in, and no server.
 
-If you back up your iPhone with iCloud or a computer, this data may be part of your own backup. That backup is managed by Apple under your Apple Account, not by Todopop.
+If you back up your iPhone with iCloud or a computer, this data may be part of your own backup. That backup is managed by Apple under your Apple Account, not by TODDI.
 
 Deleting the app deletes this data from your iPhone.
 
@@ -29,11 +29,11 @@ Subscriptions are purchased through Apple's App Store. Apple processes the payme
 
 - **Alarms (iOS 26 or later) or Notifications (earlier versions):** used only to show a reminder at the time you set for a to-do. Reminders are scheduled on your device.
 
-Todopop does not ask for access to your contacts, photos, location, camera, or microphone.
+TODDI does not ask for access to your contacts, photos, location, camera, or microphone.
 
 ## Children
 
-Todopop does not collect data from anyone, including children.
+TODDI does not collect data from anyone, including children.
 
 ## Changes
 
@@ -45,19 +45,19 @@ Questions about this policy: [open an issue](https://github.com/imyhnam0/Todopop
 
 ---
 
-# Todopop 개인정보 처리방침
+# TODDI 개인정보 처리방침
 
 시행일: 2026년 11월 25일
 
-Todopop은 Yunhyung Nam이 만든 아이폰 앱입니다. 이 문서는 앱을 쓸 때 정보가 어떻게 다뤄지는지 설명합니다.
+TODDI는 Yunhyung Nam이 만든 아이폰 앱입니다. 이 문서는 앱을 쓸 때 정보가 어떻게 다뤄지는지 설명합니다.
 
-**요약: Todopop은 어떤 데이터도 수집하지 않습니다.**
+**요약: TODDI는 어떤 데이터도 수집하지 않습니다.**
 
 ## 기기에만 남는 것
 
 입력한 할 일, 알림 시간, 설정은 아이폰 안에만, 앱이 잠금 화면 위젯과 함께 쓰는 저장 공간에 저장됩니다. 개발자나 다른 누구에게도 전송되지 않습니다. 앱에는 계정도, 로그인도, 서버도 없습니다.
 
-아이폰을 iCloud나 컴퓨터로 백업하면 이 데이터가 본인의 백업에 포함될 수 있습니다. 그 백업은 Todopop이 아니라 Apple이 본인의 Apple 계정으로 관리합니다.
+아이폰을 iCloud나 컴퓨터로 백업하면 이 데이터가 본인의 백업에 포함될 수 있습니다. 그 백업은 TODDI가 아니라 Apple이 본인의 Apple 계정으로 관리합니다.
 
 앱을 지우면 이 데이터도 아이폰에서 지워집니다.
 
@@ -76,11 +76,11 @@ Todopop은 Yunhyung Nam이 만든 아이폰 앱입니다. 이 문서는 앱을 �
 
 - **알람(iOS 26 이상) 또는 알림(그 이전 버전):** 할 일에 정한 시간에 알림을 보여 주는 데에만 씁니다. 알림은 기기에서 예약됩니다.
 
-Todopop은 연락처, 사진, 위치, 카메라, 마이크에 접근을 요청하지 않습니다.
+TODDI는 연락처, 사진, 위치, 카메라, 마이크에 접근을 요청하지 않습니다.
 
 ## 어린이
 
-Todopop은 어린이를 포함해 누구에게서도 데이터를 수집하지 않습니다.
+TODDI는 어린이를 포함해 누구에게서도 데이터를 수집하지 않습니다.
 
 ## 변경
 
